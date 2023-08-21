@@ -15,10 +15,9 @@
         "startDate": "2022",
         "description": "a web portal using Django to help Internet Service Providers submit their coverage data by providing visualization of submitted data along with automated file validation, query resolution, and file management.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/geoviz/p1.png"
         ],
-        "url": "",
+        "url": "https://geoviz.dev.cgit.vt.edu/",
         "technologies": [
           {
             "class": "devicon-django-plain-wordmark",
@@ -39,10 +38,9 @@
         "startDate": "2022",
         "description": "Developed visualizations in D3.js to get better insights into Data Science related jobs in the United States. Utilized visualization principles such as CRAP to build an effective data story",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/market-divers/p1.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/nandaanubhav/nandaanubhav.github.io",
         "technologies": [
           {
             "class": "devicon-d3js-original",
@@ -59,10 +57,9 @@
         "startDate": "2021",
         "description": "A web application using Java EE, JSF, MySQL and deployed it on AWS to overcome the problem of mental health. It provides uplifting quotes, motivational videos from YouTube, a custom shop for mental health products integrating with PayPal for payment, and a subscription service to receive daily motivational quotes",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/calmify/p1.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/nandaanubhav/Calmify",
         "technologies": [
           {
             "class": "devicon-java-plain",
