@@ -59,7 +59,7 @@ const ProjectDetailsModal = (props) => {
               data-inline="false"
             ></span>
           </div>
-          {props.data.images && <img
+          {props.data?.images && <img
             src={props.data.images[0]}
             alt="projectImages"
             style={{ marginBottom: 0, paddingBottom: 0, position: 'relative', width: "100%" }}

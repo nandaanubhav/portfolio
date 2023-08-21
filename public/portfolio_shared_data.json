@@ -29,63 +29,69 @@
     "icons": [
       {
         "name": "Java",
-        "class": "devicon-java-plain",
-        "level": "80"
-      },
-      {
-        "name": "JavaScript",
-        "class": "devicon-javascript-plain",
-        "level": "70"
-      },
-      {
-        "name": "Node.js",
-        "class": "devicon-nodejs-plain",
-        "level": "70"
-      },
-      {
-        "name": "React.js",
-        "class": "devicon-react-plain",
-        "level": "65"
-      },
-      {
-        "name": "Vue.js",
-        "class": "devicon-vuejs-plain",
-        "level": "65"
+        "class": "devicon-java-plain"
       },
       {
         "name": "Spring Boot",
-        "class": "devicon-spring-plain",
-        "level": "70"
+        "class": "devicon-spring-plain"
       },
       {
-        "name": "C++",
-        "class": "devicon-cplusplus-plain",
-        "level": "75"
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain"
       },
       {
-        "name": "TypeScript",
-        "class": "devicon-typescript-plain",
-        "level": "90"
+        "name": "React.js",
+        "class": "devicon-react-plain"
       },
       {
-        "name": "HTML 5",
-        "class": "devicon-html5-plain",
-        "level": "95"
+        "name": "Vue.js",
+        "class": "devicon-vuejs-plain"
       },
       {
-        "name": "CSS 3",
-        "class": "devicon-css3-plain",
-        "level": "95"
+        "name": "Node.js",
+        "class": "devicon-nodejs-plain"
       },
       {
-        "name": "MySql",
-        "class": "devicon-mysql-plain",
-        "level": "60"
+        "name": "Express.js",
+        "class": "devicon-express-original-wordmark"
       },
       {
         "name": "D3.js",
-        "class": "devicon-d3js-plain",
-        "level": "70"
+        "class": "devicon-d3js-plain"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain"
+      },
+      {
+        "name": "C++",
+        "class": "devicon-cplusplus-plain"
+      },
+      {
+        "name": "Kotlin",
+        "class": " devicon-kotlin-plain-wordmark"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain"
+        
+      },
+      {
+        "name": "Django",
+        "class": "devicon-django-plain-wordmark"
+        
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain"
       }
     ]
   }

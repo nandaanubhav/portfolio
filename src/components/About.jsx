@@ -26,7 +26,7 @@ const About = ({ sharedBasicInfo, resumeBasicInfo }) => {
             <div className="polaroid">
               <span style={{ cursor: "auto" }}>
                 <img
-                  height="250px"
+                  width="275px"
                   src={profilepic}
                   alt="Avatar placeholder"
                 />
