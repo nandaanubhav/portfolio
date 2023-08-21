@@ -1,7 +1,9 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Anubhav Nanda. A results-driven software engineer with 5+ years of software development experience, adeptly designing and implementing high-impact solutions. Proficient in full-stack development using Java, Node.js, React.js, Vue.js and SQL databases. Demonstrated expertise in architecting systems, optimizing workflows, and enhancing productivity.",
+      "description": ["I'm a software engineer with a passion for crafting applications that seamlessly merge technical prowess with captivating design. My journey began as a Software Engineer at STMicroelectronics, where I honed my skills in Java, Spring Boot, React and Relational Databases. This experience laid the foundation for my Master's at Virginia Tech as well as internship at MathWorks.",
+                      "Currently, I'm an Application Engineer at Myers Lawson School of Construction, Virginia Tech. Here, I'm focused on developing a web application that bridges the gap between instructors and industry practitioners, leveraging my knack for combining technical depth with a keen eye for design.",
+                      "Beyond the world of software, you can find me exploring hiking trails, cheering on my favorite sports teams, or ticking off items from my bucket list."],
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -13,7 +15,7 @@
       {
         "title": "GeoViz",
         "startDate": "2022",
-        "description": "a web portal using Django to help Internet Service Providers submit their coverage data by providing visualization of submitted data along with automated file validation, query resolution, and file management.",
+        "description": "A web portal to help Internet Service Providers submit their coverage data by providing visualization of submitted data along with automated file validation, query resolution, and file management.",
         "images": [
           "images/portfolio/geoviz/p1.png"
         ],
@@ -55,7 +57,7 @@
       {
         "title": "Calmify",
         "startDate": "2021",
-        "description": "A web application using Java EE, JSF, MySQL and deployed it on AWS to overcome the problem of mental health. It provides uplifting quotes, motivational videos from YouTube, a custom shop for mental health products integrating with PayPal for payment, and a subscription service to receive daily motivational quotes",
+        "description": "A web application to overcome the problem of mental health. It provides uplifting quotes, motivational videos from YouTube, a custom shop for mental health products integrating with PayPal for payment, and a subscription service to receive daily motivational quotes",
         "images": [
           "images/portfolio/calmify/p1.png"
         ],
@@ -94,7 +96,7 @@
         ]
       },
       {
-        "company": "Mathwork",
+        "company": "Mathworks",
         "title": "EDG Intern",
         "years": "05.2022 - 08.2022",
         "mainTech": [

@@ -12,7 +12,13 @@ const About = ({ sharedBasicInfo, resumeBasicInfo }) => {
   if (resumeBasicInfo) {
     var sectionName = resumeBasicInfo.section_name.about;
     var hello = resumeBasicInfo.description_header;
-    var about = resumeBasicInfo.description;
+    var about = resumeBasicInfo.description.map((descr , i) => {
+      return (
+        <div className="mb-2" key={i}>
+          {descr}
+        </div>
+      );
+    });
   }
 
   return (
@@ -80,7 +86,6 @@ const About = ({ sharedBasicInfo, resumeBasicInfo }) => {
                     lineHeight: "200%",
                   }}
                 >
-                  <br />
                   <span className="wave">{hello} :) </span>
                   <br />
                   <br />

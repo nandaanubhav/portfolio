@@ -54,16 +54,16 @@ const App = () => {
             resumeBasicInfo={resumeData.basic_info}
             sharedBasicInfo={sharedData.basic_info}
           />
-          <Projects
-            resumeProjects={resumeData.projects}
-            resumeBasicInfo={resumeData.basic_info}
-          />
           <Skills
             sharedSkills={sharedData.skills}
             resumeBasicInfo={resumeData.basic_info}
           />
           <Experience
             resumeExperience={resumeData.experience}
+            resumeBasicInfo={resumeData.basic_info}
+          />
+          <Projects
+            resumeProjects={resumeData.projects}
             resumeBasicInfo={resumeData.basic_info}
           />
           <Footer sharedBasicInfo={sharedData.basic_info} />

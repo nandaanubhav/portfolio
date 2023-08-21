@@ -21,6 +21,11 @@
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/anubhavnanda/",
         "class": "fab fa-linkedin"
+      },
+      {
+        "name": "Mail",
+        "url": "mailto:nandaa@vt.edu",
+        "class": "far fa-envelope"
       }
     ],
     "image": "profilePicture.jpg"
