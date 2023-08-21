@@ -93,7 +93,9 @@
           "Vue.js",
           "Bootstrap",
           "D3.js"
-        ]
+        ],
+        "projects": ["Deployed a low code/no code tool to facilitate risk assessment for construction tasks which in turn motivated students to incorporate programming into their skills",
+                    "Designed and implemented a web platform which helped in connecting instructors with industry practitioners to seek support for Course Support Requests"]
       },
       {
         "company": "Mathworks",
@@ -106,7 +108,8 @@
         "technologies": [
           "Boost C++",
           "Google Test"
-        ]
+        ],
+        "projects": ["Developed a C++ program to transform Bullseye code coverage data to MathWorks standard format which facilitated real-time code coverage matrix calculation"]
       },
       {
         "company": "STMicroelectronics",
@@ -123,7 +126,11 @@
           "JavaScript",
           "React.js",
           "C++"
-        ]
+        ],
+        "projects": ["Led the design and development of Automatic Price Revision module, which processed orders amounting to $2 billion per year",
+        "Designed and Implemented Microservice architecture to help seamless communication between ERP system and “e-Commerce” solution deployed on Microsoft Azure", 
+        "Developed a “Paid Sample Approval” application facilitating simplification of business processes through workflow enabling the system to process 27k sample orders worth $10 million annually",
+        "Led the project to change pricing precision from 3 decimals to 4 decimals increasing revenue by 6% per year"]
       },
       {
         "company": "STMicroelectronics",
@@ -140,7 +147,9 @@
           "JavaScript",
           "React.js",
           "C++"
-        ]
+        ],
+        "projects": ["Engineered an automated workflow solution for rule-based approval of Order Change and Free of Cost Samples enabling user productivity saving 192 man-days per year",
+        "Initiated and introduced several automation and productivity features in the sales process application like Multiple Order Variation, Final/End Customer price application on direct orders saving 60 man-days annually"]
       }
     ]
   }

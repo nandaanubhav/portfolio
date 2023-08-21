@@ -13,6 +13,7 @@ const Experience = ({ resumeExperience, resumeBasicInfo }) => {
       const technologies = work.technologies;
       const mainTechnologies = work.mainTech;
       const mainTechIcon = work.mainTechIcon;
+      const projects = work.projects;
 
       var mainTech = mainTechnologies.map((technology, i) => {
         return (
@@ -26,6 +27,13 @@ const Experience = ({ resumeExperience, resumeBasicInfo }) => {
           <Badge pill className="experience-badge mr-2 mb-2" key={i}>
             {technology}
           </Badge>
+        );
+      });
+      var workDescr = projects.map((project, i) => {
+        return (
+          <div className="mr-2 mb-2" key={i}>
+            {project}
+          </div>
         );
       });
       return (
@@ -56,6 +64,7 @@ const Experience = ({ resumeExperience, resumeBasicInfo }) => {
           >
             {work.company}
           </h4>
+          <div style={{ textAlign: "left", marginTop: "15px", fontSize: "125%", lineHeight: "150%"}}>{workDescr}</div>
           <div style={{ textAlign: "left", marginTop: "15px" }}>{tech}</div>
         </VerticalTimelineElement>
       );
