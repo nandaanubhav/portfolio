@@ -1,0 +1,147 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Anubhav Nanda. Results-driven software engineer with 5+ years of software development experience, adeptly designing and implementing high-impact solutions. Instrumental in building a Java Spring Boot and React-based Automatic Price Revision module, processing orders totaling $2 billion annually. Proficient in full-stack development using Java, Node.js, React.js, Vue.js and SQL databases. Demonstrated expertise in architecting systems, optimizing workflows, and enhancing productivity.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "GeoViz",
+        "startDate": "2022",
+        "description": "a web portal using Django to help Internet Service Providers submit their coverage data by providing visualization of submitted data along with automated file validation, query resolution, and file management.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-django-plain-wordmark",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "Postgres SQL"
+          }
+        ]
+      },
+      {
+        "title": "Market Divers",
+        "startDate": "2022",
+        "description": "Developed visualizations in D3.js to get better insights into Data Science related jobs in the United States. Utilized visualization principles such as CRAP to build an effective data story",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-d3js-original",
+            "name": "D3.js"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Calmify",
+        "startDate": "2021",
+        "description": "A web application using Java EE, JSF, MySQL and deployed it on AWS to overcome the problem of mental health. It provides uplifting quotes, motivational videos from YouTube, a custom shop for mental health products integrating with PayPal for payment, and a subscription service to receive daily motivational quotes",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Myers Lawson School of Construction, Virgnia Tech",
+        "title": "Application Engineer",
+        "years": "08.2022 - present",
+        "mainTech": [
+          "Node.js"
+        ],
+        "mainTechIcon": "devicon-nodejs-plain experience-icon",
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Vue.js",
+          "Bootstrap",
+          "D3.js"
+        ]
+      },
+      {
+        "company": "Mathwork",
+        "title": "EDG Intern",
+        "years": "05.2022 - 08.2022",
+        "mainTech": [
+          "C++"
+        ],
+        "mainTechIcon": "devicon-cplusplus-plain experience-icon",
+        "technologies": [
+          "Boost C++",
+          "Google Test"
+        ]
+      },
+      {
+        "company": "STMicroelectronics",
+        "title": "Senior Software Engineer",
+        "years": "07.2019 - 08.2021",
+        "mainTech": [
+          "Java"
+        ],
+        "mainTechIcon": "devicon-java-plain experience-icon",
+        "technologies": [
+          "Spring",
+          "Spring Boot",
+          "REST API",
+          "JavaScript",
+          "React.js",
+          "C++"
+        ]
+      },
+      {
+        "company": "STMicroelectronics",
+        "title": "Software Engineer",
+        "years": "10.2016 - 07.2019",
+        "mainTech": [
+          "Java"
+        ],
+        "mainTechIcon": "devicon-java-plain experience-icon",
+        "technologies": [
+          "Spring",
+          "Spring Boot",
+          "REST API",
+          "JavaScript",
+          "React.js",
+          "C++"
+        ]
+      }
+    ]
+  }

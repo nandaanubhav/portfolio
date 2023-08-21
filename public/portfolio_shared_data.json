@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "name": "Anubhav Nanda",
+    "titles": [
+      "Full-stack Developer",
+      2000,
+      "Back-end Developer",
+      2000,
+      "Front-end Developer",
+      2000,
+      "Mobile App Developer",
+      2000
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/nandaanubhav/",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/anubhavnanda/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "profilePicture.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "80"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Node.js",
+        "class": "devicon-nodejs-plain",
+        "level": "70"
+      },
+      {
+        "name": "React.js",
+        "class": "devicon-react-plain",
+        "level": "65"
+      },
+      {
+        "name": "Vue.js",
+        "class": "devicon-vuejs-plain",
+        "level": "65"
+      },
+      {
+        "name": "Spring Boot",
+        "class": "devicon-spring-plain",
+        "level": "70"
+      },
+      {
+        "name": "C++",
+        "class": "devicon-cplusplus-plain",
+        "level": "75"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      },
+      {
+        "name": "D3.js",
+        "class": "devicon-d3js-plain",
+        "level": "70"
+      }
+    ]
+  }
+}
