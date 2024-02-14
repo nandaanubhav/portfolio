@@ -81,7 +81,7 @@
     "experience": [
       {
         "company": "Myers Lawson School of Construction, Virgnia Tech",
-        "title": "Application Engineer",
+        "title": "Software Engineer",
         "years": "Aug 2022 - Present",
         "mainTech": [
           "Node.js"
@@ -94,12 +94,15 @@
           "Bootstrap",
           "D3.js"
         ],
-        "projects": ["Deployed a low code/no code tool to facilitate risk assessment for construction tasks which in turn motivated students to incorporate programming into their skills",
-                    "Designed and implemented a web platform which helped in connecting instructors with industry practitioners to seek support for Course Support Requests"]
+        
+        "projects": ["Developed a web application to facilitate risk assessment for construction tasks, increasing user engagement by 8.89%, and decreasing cognitive load by 46.11%",
+        "Designed and implemented a web platform utilizing Vue, TypeScript, NodeJS, Express, and MySQL which helped connect instructors with industry practitioners to seek support for Course Support Requests",
+        "Achieved 99.99% uptime leveraging Apache Kafka to implement real-time notification service",
+        "Implemented lazy loading to reduce initial bundle size, leading to 70% faster load times"]
       },
       {
         "company": "Mathworks",
-        "title": "EDG Intern",
+        "title": "Softwar Development Intern",
         "years": "May 2022 - Aug 2022",
         "mainTech": [
           "C++"
@@ -109,7 +112,8 @@
           "Boost C++",
           "Google Test"
         ],
-        "projects": ["Developed a C++ program to transform Bullseye code coverage data to MathWorks standard format which facilitated real-time code coverage matrix calculation"]
+        "projects": ["• Engineered a C++ program to convert Bullseye Code Coverage Data into a standardized format, enabling efficient real-time code coverage matrix computations",
+        "Automated build, test, and deployment process using CI/CD pipeline to increase code reliability by 30%"]
       },
       {
         "company": "STMicroelectronics",
@@ -127,10 +131,11 @@
           "React.js",
           "C++"
         ],
-        "projects": ["Led the design and development of Automatic Price Revision module, which processed orders amounting to $2 billion per year",
-        "Designed and Implemented Microservice architecture to help seamless communication between ERP system and “e-Commerce” solution deployed on Microsoft Azure", 
-        "Developed a “Paid Sample Approval” application facilitating simplification of business processes through workflow enabling the system to process 27k sample orders worth $10 million annually",
-        "Led the project to change pricing precision from 3 decimals to 4 decimals increasing revenue by 6% per year"]
+        "projects": ["Developed an Automatic Price Revision module using REST APIs with Java Spring Boot, React, and Redux processing orders amounting to $2 billion annually",
+        "Designed and implemented Microservice architecture to facilitate seamless communication between an ERP system and an e-commerce solution deployed on Microsoft Azure, decreasing P99 latency by 23%",
+        "Led the project to change pricing precision from 3 decimals to 4 decimals increasing revenue by 6% per year",
+        "Recipient of Company Strategic Award (Star Gold Award) for excellent contribution towards annual goals"
+        ]
       },
       {
         "company": "STMicroelectronics",
@@ -148,8 +153,9 @@
           "React.js",
           "C++"
         ],
-        "projects": ["Engineered an automated workflow solution for rule-based approval of Order Change and Free of Cost Samples enabling user productivity saving 192 man-days per year",
-        "Initiated and introduced several automation and productivity features in the sales process application like Multiple Order Variation, Final/End Customer price application on direct orders saving 60 man-days annually"]
+        "projects": ["Saved 192 Days annually by enhancing user productivity using an automated workflow solution for rule-based approval of Order Change and Free of Cost Samples with Java Spring, JavaScript, and Oracle database",
+        "Engineered “Paid Sample Approval” application facilitating simplification of business processing 27k sample orders worth $10 million, saving 60 person-days annually",
+        "Optimized legacy code implementations in C++ increasing performance by more than 15%"]
       }
     ]
   }
